@@ -12,3 +12,4 @@ def greet(name):
 
 
 greet("Inoue")
+print("INIAD")
